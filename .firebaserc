@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "website": "opti-core-dc-solutions",
+    "default": "opti-core-dc-solutions"
+  },
+  "targets": {},
+  "etags": {}
+}
